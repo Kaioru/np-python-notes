@@ -3,7 +3,7 @@ Data can be classified under different types as such:
 - int - Integer; number without decimals.
 - float - Float; number with decimals.
 - bool - Boolean; true or false value.
-- str - String; sequence of characters e.g text.
+- str - String; sequence of characters. (e.g text)
 
 
 ```py
